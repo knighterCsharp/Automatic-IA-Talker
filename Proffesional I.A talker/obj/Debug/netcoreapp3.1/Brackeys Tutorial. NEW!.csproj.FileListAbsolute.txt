@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\bin\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.exe
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\bin\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.deps.json
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\bin\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.runtimeconfig.json
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\bin\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\bin\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.dll
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\bin\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.pdb
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\obj\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\obj\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\obj\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\obj\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\obj\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.dll
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\obj\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.pdb
+C:\Users\Usuario\Desktop\CSharpProjects\Brackeys Tutorial. NEW!\obj\Debug\netcoreapp3.1\Brackeys Tutorial. NEW!.genruntimeconfig.cache
